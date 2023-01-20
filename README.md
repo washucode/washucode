@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @washucode
 - 👀 I’m interested in UX Design and Software Development
-- 🌱 I’m currently learning React and  modern redux
+- 🌱 I’m currently working with React and  modern redux
 - 💞️ I’m looking to collaborate on Software Development projects as well as UX Projects
 - 📫 How to reach me estherwachukangaru@gmail.com.
 
