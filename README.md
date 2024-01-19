@@ -59,6 +59,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Webflow" alt="Webflow" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=washucode&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
 
 <!---
 washucode/washucode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
